@@ -1,4 +1,4 @@
-Description: extrate data using python regulation expression.
+Description: extract data using python regulation expression.
 
 Use method:
 $python extract.py
